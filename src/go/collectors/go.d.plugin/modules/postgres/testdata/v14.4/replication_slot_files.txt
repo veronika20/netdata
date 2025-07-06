@@ -1,3 +1,0 @@
- slot_name | slot_type | replslot_wal_keep | replslot_files
------------+-----------+-------------------+----------------
- ocean     | physical  |                 0 |              0

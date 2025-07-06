@@ -1,3 +1,0 @@
- autovacuum_analyze | autovacuum_vacuum_analyze | autovacuum_vacuum | autovacuum_vacuum_freeze | autovacuum_brin_summarize
---------------------+---------------------------+-------------------+--------------------------+---------------------------
-                  0 |                         0 |                 0 |                        0 |                         0

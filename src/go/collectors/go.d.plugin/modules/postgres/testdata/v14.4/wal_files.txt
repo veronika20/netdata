@@ -1,3 +1,0 @@
- wal_recycled_files | wal_written_files
---------------------+-------------------
-                  0 |                 1

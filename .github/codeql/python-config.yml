@@ -1,9 +1,0 @@
-paths-ignore:
-  - .github
-  - build_external/
-  - src/ml/dlib
-  - tests/api
-  - src/web/gui
-  - src/collectors/python.d.plugin/python_modules/pyyaml*
-  - src/collectors/python.d.plugin/python_modules/third_party
-  - src/collectors/python.d.plugin/python_modules/urllib3

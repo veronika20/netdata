@@ -1,3 +1,0 @@
- oldest_current_xid | percent_towards_wraparound | percent_towards_emergency_autovacuum
---------------------+----------------------------+-----------------------------------
-                  9 |                          0 |                                 0
